@@ -4,7 +4,7 @@ Nested children crash example for iOS 14 and react-native 0.63.3.
 
 ## Steps To Recreate Enviroment From Scratch:
  1. Create clean bare react-native (0.63.3) app with `npx react-native init app`
- 2. Add this [CODE][2] to App.js
+ 2. Add this [code][2] to App.js
 
 ## Clone Existing Enviroment:
  1. On a shell terminal clone git repo with `git clone https://github.com/xtealer/rn-nested-children-crash.git`
