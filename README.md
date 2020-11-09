@@ -17,16 +17,10 @@ Nested children crash example for iOS 14 and react-native 0.63.3.
  3. Open `app.xcworkspace` with XCode
  4. Build app for running on emulator or physical device
 
-**[edit]: Here some related issues that I've created on github.**
-
-- [[iOS]: Misterious Nested Views Crash on 0.63.3][3]
-- [[iOS][Crash]: Crash while trying example provided and existing implementation][4]
 
 
   [1]: https://i.stack.imgur.com/kSIC8.png
   [2]: https://github.com/xtealer/rn-nested-children-crash/blob/master/App.js
-  [3]: https://github.com/facebook/react-native/issues/30344
-  [4]: https://github.com/renrizzolo/react-native-sectioned-multi-select/issues/217
 
 ## Issue Details So Far: 
  - React Native Core: https://github.com/facebook/react-native/issues/30344
